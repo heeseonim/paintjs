@@ -3,7 +3,7 @@
 ## :sparkles: Built With
 
 * [Vanilla JS](http://vanilla-js.com/)
-* [Weather API](https://openweathermap.org/api)
+* [Canvas2D](https://developer.mozilla.org/ko/docs/Web/API/CanvasRenderingContext2D)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 ## :see_no_evil: Authors
